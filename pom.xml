@@ -10,7 +10,6 @@
 
 	<name>EmpServices</name>
 	<description>Employee Services</description>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
